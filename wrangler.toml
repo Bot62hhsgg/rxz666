@@ -1,11 +1,11 @@
-name = "rxz666"
+name = "rxz"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 
 [vars]
-PROXYIP = "146.56.162.25:443"
-UUID = "5e9312f9-005d-4c8b-ad06-0eba2ecef46a"
+PROXYIP = "103.133.223.51:2096"
+UUID = "4c9aa090-9eee-40d7-b0f3-5114f1770150"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
